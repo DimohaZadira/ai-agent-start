@@ -1,1 +1,4 @@
-# ai-agent-start
+# ai-agent
+## prerequisities
+- pipx
+- poetry
